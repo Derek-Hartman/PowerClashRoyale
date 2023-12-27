@@ -4,6 +4,7 @@ about: Generic details regarding this project.
 ---
 
 ### API documentation
+
 [https://developer.clashroyale.com/#/]
 
 [License](/LICENSE)
